@@ -1,0 +1,9 @@
+
+
+Section 22 - Demo - E-Commerce Implementation of Microservices Architecture
+
+Lecture 22.2 - Demo - E-Commerce Implementation of Microservices Architecture
+
+GitHub Repository: https://github.com/aspnetrun/run-aspnetcore-microservices
+
+Alternate GitHub Repository: https://github.com/mehmetozkaya/MicroservicesApp

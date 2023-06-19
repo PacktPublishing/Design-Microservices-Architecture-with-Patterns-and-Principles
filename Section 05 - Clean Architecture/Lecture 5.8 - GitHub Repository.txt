@@ -1,0 +1,5 @@
+
+Section 5 - Clean Architecture
+
+Lecture 5.8 - Demo - Clean Architecture Code Review - E-Commerce App
+GitHub Repository - https://github.com/aspnetrun/run-aspnetcore-realworld

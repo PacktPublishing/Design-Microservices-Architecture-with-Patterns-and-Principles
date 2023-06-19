@@ -1,0 +1,6 @@
+
+
+Lecture 4.6  - Demo - Layered Monolithic Architecture Code Review - E-Commerce App
+
+GitHub Repository
+https://github.com/aspnetrun/run-aspnetcore-basics

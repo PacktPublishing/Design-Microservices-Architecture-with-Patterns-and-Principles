@@ -1,0 +1,13 @@
+Section 23 - Useful Links and Resources
+
+AWS Event-driven Serverless Microservices using AWS Lambda, API Gateway, EventBridge, SQS, DynamoDB and CDK for IaC - 
+https://medium.com/aws-serverless-microservices-with-patterns-best/aws-event-driven-serverless-microservices-using-aws-lambda-api-gateway-eventbridge-sqs-dynamodb-a7f46220b738
+
+AWS Event-driven Serverless Microservices using AWS Lambda, API Gateway, EventBridge, SQS, DynamoDB and CDK for IaC -
+https://medium.com/aws-serverless-microservices-with-patterns-best/aws-event-driven-serverless-microservices-using-aws-lambda-api-gateway-eventbridge-sqs-dynamodb-a7f46220b738
+
+Using AWS Lambda as a Microservice -
+https://medium.com/aws-serverless-microservices-with-patterns-best/using-aws-lambda-as-a-microservice-dd7d7296c74a
+
+Cloud-Native Microservices Evolves to AWS Serverless Event-driven Architectures - 
+https://medium.com/aws-serverless-microservices-with-patterns-best/cloud-native-microservices-evolves-to-aws-serverless-event-driven-architectures-9a38c473f4f8
