@@ -1,0 +1,7 @@
+
+Section 7 - Modular Monolithic Architecture
+
+
+Lecture 7.16: Demo - Modular Monolithic Architecture Code Review - E-Commerce App
+
+GitHub Repository - https://github.com/kgrzybek/modular-monolith-with-ddd
